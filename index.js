@@ -1,8 +1,3 @@
-console.log("Hello")
-
-
-
-
 const people = [
     {name: "Jeroen", age: 31, gender: "M"},    
     {name: "Laura", age: 30, gender: "F"}
