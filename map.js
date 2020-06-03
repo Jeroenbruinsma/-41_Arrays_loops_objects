@@ -5,6 +5,7 @@ const listOfPets = [
     { name: "Froggy", type: "frog", age: 0, gender: "?", favFoods: [] },
     { name: "Kermit", type: "frog", age: 1, gender: "?", favFoods: [] },
     { name: "Froginta", type: "frog", age: 0, gender: "?", favFoods: [] },
+    { name: "Frogelientje", type: "frog", age: 0, gender: "?", favFoods: [] },
 ]
 //.map is an array method [] -> [] 
 const petNames = listOfPets.map(function(animal){
