@@ -6,5 +6,5 @@
 
 
 17:00:
-5. map    
-6. git
+5. map  !important     
+6. git  
